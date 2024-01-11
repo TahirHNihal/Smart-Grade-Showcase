@@ -1,6 +1,6 @@
 import React from "react";
 import Avatar from "../assets/avatar.png";
-import { studentsData } from "../data/data1";
+import { studentsData } from "../data/data";
 
 const StudentsDataTable = () => {
   // Class One Students Data

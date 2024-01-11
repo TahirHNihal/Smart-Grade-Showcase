@@ -1,6 +1,5 @@
 import React from "react";
 import SearchBar from "./SearchBar";
-import StudentDataTable from "./StudentDataTable";
 import StudentsDataTable from "./StudentsDataTable";
 
 const StudentTableSec = () => {
@@ -20,7 +19,6 @@ const StudentTableSec = () => {
           <StudentsDataTable />
 
           {/* Student Data Table Way 2*/}
-          {/* <StudentDataTable /> */}
 
         </div>
       </section>

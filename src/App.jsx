@@ -7,19 +7,17 @@ import Footer from "./components/Footer";
 const App = () => {
   return (
     <>
-      <div className="bg-[#172227] font-[Inter] text-white">
         {/* Header Section */}
         <Header />
-
+      
         {/* Hero Section */}
         <HeroSec />
-
+      
         {/*Begin Students table */}
         <StudentTableSec />
-
+      
         {/* Footer */}
         <Footer />
-      </div>
     </>
   );
 };
